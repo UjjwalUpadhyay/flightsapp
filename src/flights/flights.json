@@ -1,0 +1,23 @@
+[{
+	"id": 1,
+	"airline": "air india",
+	"number": "ai-202",
+	"from": "kolkata",
+	"to": "delhi",
+	"from_code": "KOL",
+	"to_code": "DEL",
+	"depart_date": "14/09/2017-10:00 AM",
+	"arrive_date": "12/09/2017-23:00 PM",
+	"price": 8700
+}, {
+	"id": 2,
+	"airline": "indigo",
+	"number": "ind-203",
+	"from": "hyderabad",
+	"to": "delhi",
+	"from_code": "HYD",
+	"to_code": "DEL",
+	"depart_date": "15/09/2017-10:00 AM",
+	"arrive_date": "15/09/2017-23:00 PM",
+	"price": 9200
+}]
